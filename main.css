@@ -72,7 +72,7 @@ span{
     padding-left: 20px;
 }
 #six{
-    padding-left:20px;
+    padding-left:2px;
    
 }
 @media (max-width:600px) {
@@ -111,14 +111,26 @@ span{
          padding-left:51px;
 border-top: rgb(236, 247, 236) 5px solid;
          padding-bottom: 150px;
+        
  }
  #btn{
     margin-right: 20px;
  }
  .address{
     height:322px;
+    margin-right: 100px;
+    width:319px;
  }
  #i{
       padding-left: 5px;
+      width: 1px;
  }
+ .hell{
+    margin-right: 20px;
+    color: red;
+ }
+ 
+ /*#n{
+    width: 389px;
+ }*/
 }
