@@ -1,0 +1,119 @@
+.nav-item a{
+ color:black;
+}
+.nav-item:hover{
+    text-decoration:none;
+}
+.nav-item a:hover{
+    color: rgb(144, 0, 0);
+}
+.progress-bar{
+ background-color: rgb(14, 180, 8);
+ 
+}
+.carddecor:hover{
+    transition:0.5s;
+    box-shadow:5px 5px 10px rgb(48, 47, 47);
+    transform: scale(1.1);
+}
+#k h4{
+    color: rgb(255, 255, 255);
+    padding-top:18px;
+
+
+}
+.place{
+    height: 120px;
+}
+
+
+input{
+    font-size: 20px;
+    width: 550px;
+    padding-top: 20px;
+}
+#k{
+    margin-bottom: 10px;
+}
+p{
+    color: white;
+    font-size: 20px;
+}
+#kino{
+    border-right-color: white 10px solid;
+}
+.address{
+    border-color:green 5px solid;
+}
+span{
+    color: white;
+}
+.pr{
+    display: none;
+}
+#c{
+    margin-right:-3px;
+    padding-left: 20px;
+}
+#c:hover{
+    transition:0.5s;
+    box-shadow:5px 5px 10px rgb(48, 47, 47);
+    transform: scale(1.1);
+}
+#btn:hover{
+    background-color: gray;
+    color: green;
+}
+.address{
+    border-style: solid;
+    border-color: rgb(254, 255, 254);
+    height:268px;
+    padding-top:20px;
+    padding-left: 20px;
+}
+#six{
+    padding-left:20px;
+   
+}
+@media (max-width:600px) {
+    #pro{
+       display: none;
+    }
+.pr{
+    display: block;
+}
+   #c{
+    margin-left:-44px;
+    padding-top: 30px;
+   }
+   #con{
+    width: 550px;
+    padding-bottom: 20px;
+    margin-left: 40px;
+
+    
+   }
+   #c2{
+    width: 150px;
+   }
+   .btn{
+    background-color: aqua;
+   }
+ #bun{
+    background-color: blueviolet;
+ }
+ input{
+    width: 255px;
+ }
+ #six{
+    padding-top: 50px;
+    margin-bottom: 16px;
+         padding-left:51px;
+border-top: rgb(236, 247, 236) 5px solid;
+         padding-bottom: 150px;
+ }
+ #btn{
+    margin-right: 20px;
+ }
+ 
+}
